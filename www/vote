@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="./misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1" /> 
+    <title>Vote! Next week's flavor | Reis &amp; Irvy&#039;s</title>
+  <style type="text/css" media="all">@import url("./modules/system/system.base.css?n0jjb7");</style>
+<style type="text/css" media="all">@import url("./modules/field/theme/field.css?n0jjb7");
+@import url("./sites/all/modules/views/css/views.css?n0jjb7");</style>
+<style type="text/css" media="all">@import url("./sites/all/modules/ctools/css/ctools.css?n0jjb7");</style>
+<style type="text/css" media="all">@import url("./sites/all/themes/jqmtheme/styles/mobile_jquery.css?n0jjb7");
+@import url("./sites/all/themes/jqmtheme/styles/jqmtheme.css?n0jjb7");
+@import url("./sites/all/themes/jqmtheme/foundation-icons/foundation-icons.css?n0jjb7");</style>
+<link type="text/css" rel="stylesheet" href="http://code.jquery.com/mobile/1.0.1/jquery.mobile.structure-1.0.1.min.css?n0jjb7" media="all" />
+<link type="text/css" rel="stylesheet" href="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.css?n0jjb7" media="all" />
+ <!--  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">-->
+     <link rel="stylesheet" href="sites/all/themes/jqmtheme/foundation-icons/foundation-icons.css">
+     <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+	 <script type="text/javascript">stLight.options({publisher:'[1bc31927-1da8-4f8a-918e-371ce15268c9]'});</script> 
+   
+
+  <script type="text/javascript" src="./misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="./misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="./misc/drupal.js?n0jjb7"></script>
+<script type="text/javascript" src="?n0jjb7"></script>
+<script type="text/javascript" src="./sites/all/themes/jqmtheme/scripts/mobile_jquery.js?n0jjb7"></script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.6.4.min.js?n0jjb7"></script>
+<script type="text/javascript" src="./sites/all/themes/mobile_jquery/scripts/mobile_jquery.js?n0jjb7"></script>
+<script type="text/javascript" src="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.js?n0jjb7"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"jqmtheme", "theme_token":"w3_zbv2bBNdxFDfHRLCfcs3p998kjq5mMRFcg39Lneg", "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "sites\u002Fall\u002Fmodules\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Fmodules\u002Fctools\u002Fcss\u002Fctools.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fstyles\u002Fmobile_jquery.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fstyles\u002Fjqmtheme.css":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Ffoundation-icons\u002Ffoundation-icons.css":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile.structure-1.0.1.min.css":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile-1.0.1.min.css":1}, "js":{"misc\u002Fjquery.js":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fhttp:\u002F\u002Fw.sharethis.com\u002Fbutton\u002Fbuttons.js":1, "sites\u002Fall\u002Fthemes\u002Fjqmtheme\u002Fscripts\u002Fmobile_jquery.js":1, "http:\u002F\u002Fcode.jquery.com\u002Fjquery-1.6.4.min.js":1, "sites\u002Fall\u002Fthemes\u002Fmobile_jquery\u002Fscripts\u002Fmobile_jquery.js":1, "http:\u002F\u002Fcode.jquery.com\u002Fmobile\u002F1.0.1\u002Fjquery.mobile-1.0.1.min.js":1}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-vote" > 
+
+    <div  data-theme="d" data-role="page" class="page type-interior"	>
+	<div id="header" 
+ data-theme="d" data-position="fixed" data-role="header"> 						<a href="index.html" title="Home		" data-rel="home" data-icon="home" data-ajax="false"><span>Home		</span></a>
+							</div>
+	<!-- /#header -->
+	<div class="main-content"  data-theme="d" data-role="content"		>
+		<div class="content-primary">
+									<div id="breadcrumb">
+<h2 class="element-invisible">You are here</h2><div class="breadcrumb" data-role="controlgroup" data-type="horizontal"><a href="./index.html" data-role="button">Home</a></div>			</div>
+																		<h2 class="title" class="page-title">Vote! Next week's flavor			</h2>
+									  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="view view-flavors view-id-flavors view-display-id-page view-dom-id-391b5e01ce09af1953a3fbe84b1cfd1a">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <div id="node-1" class="node node-poll node-teaser clearfix" about="./node/1.html" typeof="sioc:Post sioct:Poll">
+
+  
+        <h2 property="dc:title" datatype=""><a href="./node/1.html">Vote now what you like for next week</a></h2>
+    
+  
+  <div class="content">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="./sites/default/files/styles/medium/public/flavors.png?itok=PVy4kZZP" alt="" /></div></div></div><div class="poll">
+  
+<div class="text">Vanilla</div>
+<div class="bar">
+  <div style="width: 33%;" class="foreground"></div>
+</div>
+<div class="percent">
+  33% (1 vote)
+</div>
+
+<div class="text">Swirl</div>
+<div class="bar">
+  <div style="width: 67%;" class="foreground"></div>
+</div>
+<div class="percent">
+  67% (2 votes)
+</div>
+
+<div class="text">Chocolate</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+  <div class="total">
+    Total votes: 3  </div>
+  </div>
+<div class="sharethis-buttons"><div class="sharethis-wrapper"><span st_url="http://www.m.reisandirvys.com/node/1" st_title="Vote now what you like for next week" class="st_facebook_large" displaytext="facebook"></span>
+<span st_url="http://www.m.reisandirvys.com/node/1" st_title="Vote now what you like for next week" class="st_twitter_large" displaytext="twitter"></span>
+<span st_url="http://www.m.reisandirvys.com/node/1" st_title="Vote now what you like for next week" class="st_linkedin_large" displaytext="linkedin"></span>
+<span st_url="http://www.m.reisandirvys.com/node/1" st_title="Vote now what you like for next week" class="st_sharethis_large" displaytext="sharethis"></span>
+<span st_url="http://www.m.reisandirvys.com/node/1" st_title="Vote now what you like for next week" class="st_fblike_large" displaytext="fblike"></span>
+<script type='text/javascript'>var switchTo5x = true;</script><script type='text/javascript' src='http://w.sharethis.com/button/buttons.js'></script><script type='text/javascript'>stLight.options({"publisher":"1bc31927-1da8-4f8a-918e-371ce15268c9"});</script></div></div>
+  <div data-role="controlgroup" data-type="horizontal"><a href="./node/1.html" rel="tag" title="Vote now what you like for next week" data-role="button" data-icon="node-readmore">Read more<span class="element-invisible"> about Vote now what you like for next week</span></a><a href="./node/1.html" title="Jump to the first comment of this posting." property="sioc:num_replies" content="1" datatype="xsd:integer" rel="" data-role="button" data-icon="comment-comments">1 comment</a><a href="//user/login"><a href="/user/login?destination=node/1">Log in</a> or <a href="/user/register?destination=node/1">register</a> to post comments</a></div>    <!-- custom block -->
+   </div>
+
+
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+		</div>
+		<!-- /.content-primary -->
+		<div data-role="panel" id="defaultpanel" class="content-secondary" data-display="push">
+						<div class="navigation">
+				<h2>Main Menu</h2><ul id="main-menu" class="links inline clearfix" data-role="listview" data-inset="true" data-theme="d" data-divider-theme="d" data-count-theme="d" data-split-theme="d" data-split-icon="arrow-r"><li data-icon="arrow-r" class="menu-218 first"><a href="./index.html" title="">Home</a></li>
+<li data-icon="arrow-r" class="menu-639"><a href="/social" title="">Social</a></li>
+<li data-icon="arrow-r" class="menu-652"><a href="/shout" title="Promotional page">Shout out</a></li>
+<li data-icon="arrow-r" class="menu-650"><a href="/what" title="">What&#039;s in?</a></li>
+<li data-icon="arrow-r" class="menu-646 active-trail last active"><a href="/vote" class="active-trail active">Vote</a></li>
+</ul> <h2>Secondary Menu</h2>			</div>
+			<!-- /#navigation -->
+											</div>
+		<!-- /.content-secondary -->
+	</div>
+	<div id="footer" 		>   <div class="region region-footer">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <ul id="btn-list-footer"><li class="ui-btn-inner">
+	<a href="/"><i class="step menu fi-home size-36"></i></a>
+	</li>
+<li class="ui-btn-inner">
+	<a href="/social"><i class="step menu fi-share size-36"></i></a>
+	</li>
+<li class="ui-btn-inner">
+	<a href="/shout"><i class="step menu fi-comment-quotes size-36"></i></a>
+	</li>
+<li class="ui-btn-inner">
+	<a href="/what"><i class="step menu fi-archive size-36"></i></a>
+	</li>
+<li class="ui-btn-inner">
+	<a href="/vote"><i class="step menu fi-checkbox size-36"></i></a>
+	</li>
+<li class="ui-btn-inner">
+	<a href="/user"><i class="step menu fi-torso size-36"></i></a>
+	</li>
+</ul>  </div>
+</div>
+  </div>
+	</div>
+	<!-- /#footer -->
+</div>
+<!-- /#page -->  </body>
+</html>
