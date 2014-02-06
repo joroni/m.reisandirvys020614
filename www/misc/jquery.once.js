@@ -9,6 +9,7 @@
  */
 
 (function ($) {
+	
   var cache = {}, uuid = 0;
 
   /**
